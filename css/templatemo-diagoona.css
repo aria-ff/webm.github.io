@@ -7,8 +7,8 @@ https://templatemo.com/tm-550-diagoona
 */
 
 body {
-    font-family: 'Open Sans', Arial, sans-serif;
-    font-size: 17px;
+    font-family: 'Bahnschrift Condensed';
+    font-size: 20px;
     font-weight: 300;
     overflow-x: hidden;
     color: white;
@@ -25,7 +25,7 @@ a:hover { text-decoration: none; }
 button:focus { outline: none; }
 p { line-height: 1.9; }
 .tm-logo { margin-right: 20px; }
-.tm-slogan { font-size: 0.8rem; }
+.tm-slogan { font-size: 80px; }
 
 /* Navigation */
 .navbar-toggler {
